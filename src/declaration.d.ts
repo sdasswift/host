@@ -1,2 +1,2 @@
 declare module 'app2/*';
-declare module 'common/*';
+declare module 'app3/*';
